@@ -1,16 +1,11 @@
-# design_collection
+# Design Collection 1
 
-A new Flutter project.
+List of Design Collection from Youtube Tutorial for Learning Designing in Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+| Screens           | Design        | 
+| -------------     |:-------------:| 
+| Dashboard         | <img src="https://goo.gl/YftJ9u" width="250"/>| 
+| Chef Profile      | <img src="https://goo.gl/PYoY6m" width="250"/>| 
+| User Profile      | <img src="https://goo.gl/Nrg9Ys" width="250"/>| 
+| Shopping Store 1  | <img src="https://goo.gl/crihvs" width="250"/>|
+| Shopping Store 2  | <img src="https://goo.gl/42vtrX" width="250"/>|
